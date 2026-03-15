@@ -59,6 +59,13 @@ export default function FriendlySiteContent() {
     "color": "bg-gray-800"
   },
   {
+    "name": "Ricky",
+    "content": t('sites.ricky'),
+    "icon": <Image src="/assets/images/socials/friendsites/ricky.webp" alt="" width={64} height={64} />,
+    "link":"https://ricky.place/",
+    "color": "bg-zinc-800"
+  },
+  {
     "name": t('sites.add_me_here_title'),
     "content": t('sites.add_me_here'),
     "icon": <Plus size={32} className="text-gray-400" />,
