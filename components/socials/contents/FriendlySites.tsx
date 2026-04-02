@@ -34,7 +34,7 @@ export default function FriendlySiteContent() {
     "name": "OsGa",
     "content": t('sites.osga'),
     "icon": <Image src="/assets/images/socials/friendsites/osga.webp" alt="" width={64} height={64} />,
-    "link": "https://osga.me/",
+    "link": "https://osga.dev/",
     "color": "bg-gray-800"
   },
   {
